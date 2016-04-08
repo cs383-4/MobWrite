@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mobwrite-demo">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/html/java-demos/mobwrite-demo.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

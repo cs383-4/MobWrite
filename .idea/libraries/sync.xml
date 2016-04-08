@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sync">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tools/sync.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
