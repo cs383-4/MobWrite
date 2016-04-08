@@ -24,7 +24,7 @@ public class DemoEditorApplet extends JApplet {
 
           String syncGateway = getParameter("syncGateway");
           if (syncGateway == null) {
-            syncGateway = "http://mobwrite3.appspot.com/scripts/q.py";
+            syncGateway = "https://squireserver.westus.cloudapp.azure.com:3017";
           }
 
           MobWriteClient mobwrite = new MobWriteClient(syncGateway);
